@@ -12,7 +12,7 @@ Gordon Feng - GFA7@sfu.ca
 George Yang - ygyang@sfu.ca
 
 Play Instructions:
-Use a Java IDE to compile the code and play!
+Use a Java IDE to compile the code or Jar and then play!
 
 Game Tutorial:
   Follow the instructions on screen!
