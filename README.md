@@ -12,7 +12,16 @@ Gordon Feng - GFA7@sfu.ca
 George Yang - ygyang@sfu.ca
 
 Play Instructions:
-Use a Java IDE to compile the code or Jar and then play!
+Ensure that Java is installed!
+
+Use a Java IDE to compile the code and play!
+
+Alternatively
+  1. Extract all files to a folder
+  
+  2. javac *.java
+  
+  3. java Main
 
 Game Tutorial:
   Follow the instructions on screen!
