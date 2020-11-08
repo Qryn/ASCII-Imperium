@@ -1,4 +1,4 @@
-# SFU-Fall2020-ASCII A Soldier's Crusade Into Imperium
+# SFU-Fall2020-ASCII: A Soldier's Crusade Into Imperium
 An ASCII themed rpg for the SFU Fall 2020 hackathon.
 
 ASCII Images were taken from the internet. We claim no ownership on these images.
