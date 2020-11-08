@@ -11,8 +11,11 @@ Gordon Feng - GFA7@sfu.ca
 
 George Yang - ygyang@sfu.ca
 
-Build Instructions:
-Use a Java IDE to build and play.
+Play Instructions:
+Using the terminal, navigate to a folder including the jar.
+Use the following command to play:
+
+java -jar Hackathon2020Fall.jar
 
 Game Tutorial:
   Follow the instructions on screen!
