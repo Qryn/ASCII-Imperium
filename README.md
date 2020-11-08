@@ -5,5 +5,7 @@ ASCII Images were taken from the internet. We claim no ownership on these images
 
 Project Made By:
 Edmond Zhu - edmondz@sfu.ca
+
 Gordon Feng - GFA7@sfu.ca
+
 George Yang - ygyang@sfu.ca
