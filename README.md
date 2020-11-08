@@ -16,5 +16,6 @@ Use a Java IDE to build and play.
 
 Game Tutorial:
   Follow the instructions on screen!
+  
   The outcome will be dependent on your stats and luck.
   
